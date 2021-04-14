@@ -1,4 +1,4 @@
-# Documentación de mi aplicación 
+# :book: Documentación de mi aplicación 
 Esta es mi aplicación de __ejemplo__ 
 
 ## Componentes y funcionalidades principales
@@ -24,9 +24,8 @@ En este apartado vamos a describir los componentes y funcionalidades principales
 ```
 Cortador.cortarChorizo()
 ```
-[checkbox:unchecked]
 
-- [ ] Mercury
+- [ ] Mercury 
 - [x] Venus
 - [x] Earth (Orbit/Moon)
 - [x] Mars
