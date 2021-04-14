@@ -26,6 +26,8 @@ Cortador.cortarChorizo()
 ```
 
 - [ ] Mercury 
+- [ ] Mercury \(Optional)
+
 - [x] Venus
 - [x] Earth (Orbit/Moon)
 - [x] Mars
